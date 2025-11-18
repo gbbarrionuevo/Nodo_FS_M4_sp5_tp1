@@ -9,7 +9,7 @@ Incluye un diseño adaptable con modo claro/oscuro y animaciones estilo Pokémon
 ## Demo en vivo
 
 **URL del proyecto desplegado:**  
-[]()
+[https://pokeapipublic.netlify.app/](https://pokeapipublic.netlify.app/)
 
 ---
 
